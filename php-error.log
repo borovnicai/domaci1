@@ -1,0 +1,2 @@
+[08-Jan-2023 14:09:49 UTC] PHP Warning:  Undefined array key "sort" in /Users/miroslavjovanovic/Sites/localhost/bioskop/pretrazi.php on line 6
+[08-Jan-2023 14:09:49 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/miroslavjovanovic/Sites/localhost/bioskop/pretrazi.php on line 6
